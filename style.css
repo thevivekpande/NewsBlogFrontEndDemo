@@ -114,5 +114,5 @@ footer {
   bottom: 0ch;
   text-align: center;
   width: 100%;
-  /* position: fixed; */
+  position: sticky;
 }
