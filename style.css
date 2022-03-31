@@ -111,8 +111,8 @@ footer {
   padding: 10px 0px 10px 0px;
   background: rgb(1, 26, 53);
   color: white;
-  bottom: 0ch;
+  bottom: 0;
   text-align: center;
   width: 100%;
-  position: sticky;
+  position: fixed;
 }
